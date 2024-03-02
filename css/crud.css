@@ -1,0 +1,20 @@
+header {
+	padding: 30px;
+	background-image: url('../img/gif3.gif');
+}
+
+
+nav a {
+	color: #ffffff;
+	text-decoration: none;
+	margin-right: 60px;
+}
+
+body , p, h1, h2, h3{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    /* Cambia el color de fondo aquí */
+	background-image: url('../img/fondo.gif');
+}

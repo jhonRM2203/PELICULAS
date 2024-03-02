@@ -5,7 +5,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Models\\": "Models/"
+            "Modelo\\": "Modelo/",
+            "controlador\\": "src/controlador/"
         }
     },
     "require-dev": {

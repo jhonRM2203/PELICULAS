@@ -39,9 +39,11 @@ if (isset($_POST['fetch_data'])) {
     $controlador->fetchData($apiKey);
     echo "Datos obtenidos y guardados correctamente.";
 }
-// Crear una instancia concreta de PeliculasRepository que implemente PeliculasRepositoryInterface
+//dependencias
+
+// Crear una instancia concreta de peliinter que implemente Ppeliculainterfaz
 $interfaz = new peliinter();
-// Inyectar el repositorio en el controlador
+// Inyectar la interfaz en el controlador
 $controlador = new pelicula_inicial($interfaz);
 // Ejecutar el método index del controlador
 $controlador->index();
