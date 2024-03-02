@@ -8,7 +8,7 @@ h1 {
 }
 
 body {
-    background-color: #333; /* Fondo oscuro */
+    background-color: #000000; /* Fondo oscuro */
     color: #FFF; /* Texto blanco */
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 p {
-    color: #666;
+    color: #ffffff;
 }
 
 /* Estilos para la lista de películas */
@@ -45,11 +45,11 @@ p {
 
 .movie-title {
     font-weight: bold;
-    color: #333;
+    color: #000000;
 }
 
 .movie-details {
-    color: #666;
+    color: #ffffff;
 }
 
 /* Estilos para el contenedor de la lista de películas */
@@ -61,7 +61,7 @@ p {
 
 /* Estilos para cada película */
 .movie {
-    border: 1px solid #ccc;
+    border: 1px solid #ffffff;
     border-radius: 5px;
     padding: 10px;
     background-color: #f9f9f9;
@@ -87,5 +87,5 @@ p {
 /* Estilos para la sinopsis de la película */
 .movie p.synopsis {
     font-style: italic;
-    color: #666;
+    color: #ffffff;
 }
