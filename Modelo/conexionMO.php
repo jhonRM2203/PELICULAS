@@ -5,7 +5,7 @@ namespace Modelo;
 use Illuminate\Database\Eloquent\Model;
 use interfaz\peliculainterfaz;
 
-class conexionMO extends Model 
+class conexionMO extends Model
 {
     protected $table = 'peliculas';
     protected $primaryKey = 'id';

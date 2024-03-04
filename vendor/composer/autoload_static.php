@@ -24,6 +24,10 @@ class ComposerStaticInit4b3f46cc5aaf35ab7ec7e7f8a4a9721e
         array (
             'voku\\' => 5,
         ),
+        'c' => 
+        array (
+            'controlador\\' => 12,
+        ),
         'S' => 
         array (
             'Symfony\\Polyfill\\Php80\\' => 23,
@@ -42,7 +46,7 @@ class ComposerStaticInit4b3f46cc5aaf35ab7ec7e7f8a4a9721e
         ),
         'M' => 
         array (
-            'Models\\' => 7,
+            'Modelo\\' => 7,
         ),
         'I' => 
         array (
@@ -77,6 +81,10 @@ class ComposerStaticInit4b3f46cc5aaf35ab7ec7e7f8a4a9721e
         'voku\\' => 
         array (
             0 => __DIR__ . '/..' . '/voku/portable-ascii/src/voku',
+        ),
+        'controlador\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/controlador',
         ),
         'Symfony\\Polyfill\\Php80\\' => 
         array (
@@ -119,9 +127,9 @@ class ComposerStaticInit4b3f46cc5aaf35ab7ec7e7f8a4a9721e
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
-        'Models\\' => 
+        'Modelo\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/Models',
+            0 => __DIR__ . '/../..' . '/Modelo',
         ),
         'Illuminate\\Support\\' => 
         array (
