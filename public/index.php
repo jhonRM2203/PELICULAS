@@ -21,7 +21,7 @@
             </header>
 	<main>
         <h2>* ESTRELLAS</h2>
-        <h2>DEL CIENE *</h2>
+        <h2>DEL CINE *</h2>
 	<div class="main-content">
         <div class="container">
             <div class="movie">
