@@ -12,7 +12,6 @@
             <nav>
             <img src="../logo/Free_Sample_By_Wix.jpg" alt="">
                     <a href="funcionAPI.php">Inicio</a><br>
-                    <a href="crud.php">crud</a>
                     <a href="?accion=crear" class="btn btn-primary mb-3">crear</a>
             </nav>
         </div>
